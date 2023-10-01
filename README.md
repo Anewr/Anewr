@@ -1,6 +1,6 @@
 ### Andrei Wogen (Anewr)
 
-**'Digital Creator & Craftsman and Portfolio Manager (Developer/Coder/Analyst/Trader/Investor)'**
+**Digital Creator & Craftsman and Portfolio Manager (Developer/Coder/Analyst/Trader/Investor)**
 
 ---
 ### Skills I Have
