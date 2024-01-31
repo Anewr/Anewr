@@ -12,7 +12,7 @@ I am web designer and developer, python coder and financial market trader/invese
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,py,html,css,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,py,html,css,js,mysql" />
   </a>
 </p>
 
